@@ -1,0 +1,9 @@
+{
+  "width": 540,
+  "height": 960,
+  "fps": 24,
+  "clips": [
+    {"file": "sources/shot-1.mp4", "in": 0, "out": 2},
+    {"file": "sources/shot-2.mp4", "in": 0, "out": 2}
+  ]
+}

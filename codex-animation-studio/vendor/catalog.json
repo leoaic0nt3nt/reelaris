@@ -1,0 +1,2770 @@
+{
+  "source": "https://github.com/zhuyansen/awesome-claude-video-skills",
+  "revision": "84d86811a655d7eba91115e669c97fcd4e068d55",
+  "date": "2026-11-10",
+  "projects": [
+    {
+      "repo": "heygen-com/hyperframes",
+      "category": "general",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "OpenMontageInc/OpenMontage",
+      "category": "general",
+      "url": "https://github.com/OpenMontageInc/OpenMontage",
+      "license": "AGPL-3.0"
+    },
+    {
+      "repo": "hypit-ai/hypit",
+      "category": "general",
+      "url": "https://github.com/hypit-ai/hypit",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "remotion-dev/skills",
+      "category": "general",
+      "url": "https://github.com/remotion-dev/skills"
+    },
+    {
+      "repo": "NarratorAI-Studio/narrator-ai-cli-skill",
+      "category": "general",
+      "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "digitalsamba/claude-code-video-toolkit",
+      "category": "general",
+      "url": "https://github.com/digitalsamba/claude-code-video-toolkit",
+      "license": "MIT"
+    },
+    {
+      "repo": "bangtutorial/bang-motion",
+      "category": "general",
+      "url": "https://github.com/bangtutorial/bang-motion",
+      "license": "MIT"
+    },
+    {
+      "repo": "vibe-motion/skills",
+      "category": "general",
+      "url": "https://github.com/vibe-motion/skills"
+    },
+    {
+      "repo": "iart-ai/motion-skills",
+      "category": "general",
+      "url": "https://github.com/iart-ai/motion-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "GTAI-1/flow-mcp",
+      "category": "general",
+      "url": "https://github.com/GTAI-1/flow-mcp"
+    },
+    {
+      "repo": "mileson/chaojifeng-video-design",
+      "category": "general",
+      "url": "https://github.com/mileson/chaojifeng-video-design",
+      "license": "MIT"
+    },
+    {
+      "repo": "actionow-ai/vvv",
+      "category": "general",
+      "url": "https://github.com/actionow-ai/vvv",
+      "license": "MIT"
+    },
+    {
+      "repo": "0xS4N4TG/kinetograph",
+      "category": "general",
+      "url": "https://github.com/0xS4N4TG/kinetograph",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "squall01337/mixamo-llm-mocap",
+      "category": "general",
+      "url": "https://github.com/squall01337/mixamo-llm-mocap",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "Moessif/code-video-showcase",
+      "category": "general",
+      "url": "https://github.com/Moessif/code-video-showcase",
+      "license": "MIT"
+    },
+    {
+      "repo": "FavioVazquez/showtime",
+      "category": "general",
+      "url": "https://github.com/FavioVazquez/showtime",
+      "license": "MIT"
+    },
+    {
+      "repo": "Hainrixz/editor-pro-max",
+      "category": "general",
+      "url": "https://github.com/Hainrixz/editor-pro-max",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "kangarooking/director-skills",
+      "category": "general",
+      "url": "https://github.com/kangarooking/director-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "iart-ai/motion-design-skills",
+      "category": "general",
+      "url": "https://github.com/iart-ai/motion-design-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "JuneYaooo/capsule-cinema",
+      "category": "general",
+      "url": "https://github.com/JuneYaooo/capsule-cinema",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "video-db/skills",
+      "category": "general",
+      "url": "https://github.com/video-db/skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "killkli/minimax-h3-colab-skill",
+      "category": "general",
+      "url": "https://github.com/killkli/minimax-h3-colab-skill"
+    },
+    {
+      "repo": "jhartquist/claude-remotion-kickstart",
+      "category": "general",
+      "url": "https://github.com/jhartquist/claude-remotion-kickstart",
+      "license": "MIT"
+    },
+    {
+      "repo": "leodavincs/kalem",
+      "category": "general",
+      "url": "https://github.com/leodavincs/kalem",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "Hype-yolo/claude-motion-skill",
+      "category": "general",
+      "url": "https://github.com/Hype-yolo/claude-motion-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "dev-isaacmello/extreme-motion-design",
+      "category": "general",
+      "url": "https://github.com/dev-isaacmello/extreme-motion-design",
+      "license": "MIT"
+    },
+    {
+      "repo": "8533502-dev/deepseek-opus-motion-skill",
+      "category": "general",
+      "url": "https://github.com/8533502-dev/deepseek-opus-motion-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "Changroro/code-video",
+      "category": "general",
+      "url": "https://github.com/Changroro/code-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "LordVayron/video-factory",
+      "category": "general",
+      "url": "https://github.com/LordVayron/video-factory",
+      "license": "MIT"
+    },
+    {
+      "repo": "motalim-ai/motion-starter-kit",
+      "category": "general",
+      "url": "https://github.com/motalim-ai/motion-starter-kit",
+      "license": "MIT"
+    },
+    {
+      "repo": "JJenglert1/remotion-claude-video",
+      "category": "general",
+      "url": "https://github.com/JJenglert1/remotion-claude-video"
+    },
+    {
+      "repo": "zhouyuechuan2025-ui/ai-self-media-video-packaging-skill",
+      "category": "general",
+      "url": "https://github.com/zhouyuechuan2025-ui/ai-self-media-video-packaging-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "Johnson-Jia/video-clipforge",
+      "category": "general",
+      "url": "https://github.com/Johnson-Jia/video-clipforge",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "erduo1998-cell/vidmuse-video-creator",
+      "category": "general",
+      "url": "https://github.com/erduo1998-cell/vidmuse-video-creator",
+      "license": "MIT"
+    },
+    {
+      "repo": "autoip/dreamfab",
+      "category": "general",
+      "url": "https://github.com/autoip/dreamfab",
+      "license": "MIT"
+    },
+    {
+      "repo": "WhiteTowerAI/cut-as-code",
+      "category": "general",
+      "url": "https://github.com/WhiteTowerAI/cut-as-code",
+      "license": "MIT"
+    },
+    {
+      "repo": "bbylw/hyperframes-cn",
+      "category": "general",
+      "url": "https://github.com/bbylw/hyperframes-cn",
+      "license": "MIT"
+    },
+    {
+      "repo": "edotheDev/claude-video-kit",
+      "category": "general",
+      "url": "https://github.com/edotheDev/claude-video-kit",
+      "license": "MIT"
+    },
+    {
+      "repo": "GordenSun/react-bits-video",
+      "category": "general",
+      "url": "https://github.com/GordenSun/react-bits-video",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "ZLHad/OpenVideoHarness",
+      "category": "general",
+      "url": "https://github.com/ZLHad/OpenVideoHarness",
+      "license": "MIT"
+    },
+    {
+      "repo": "smwbev/framewright",
+      "category": "general",
+      "url": "https://github.com/smwbev/framewright",
+      "license": "MIT"
+    },
+    {
+      "repo": "PHANTOMTONYT/motion-design-skills",
+      "category": "general",
+      "url": "https://github.com/PHANTOMTONYT/motion-design-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "abhinavshrivastava950/Montara",
+      "category": "general",
+      "url": "https://github.com/abhinavshrivastava950/Montara",
+      "license": "AGPL-3.0"
+    },
+    {
+      "repo": "AIPMAndy/Andy-Video-Skill",
+      "category": "general",
+      "url": "https://github.com/AIPMAndy/Andy-Video-Skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "crawfordxx/xiaoma-studio",
+      "category": "general",
+      "url": "https://github.com/crawfordxx/xiaoma-studio",
+      "license": "MIT"
+    },
+    {
+      "repo": "hildlabs/openrig-studio",
+      "category": "general",
+      "url": "https://github.com/hildlabs/openrig-studio",
+      "license": "MIT"
+    },
+    {
+      "repo": "iart-ai/data-animation-skills",
+      "category": "general",
+      "url": "https://github.com/iart-ai/data-animation-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "Aaryan-Kapoor/video-production-skill",
+      "category": "general",
+      "url": "https://github.com/Aaryan-Kapoor/video-production-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "Neelshah1810/Claude-Video-Skills",
+      "category": "general",
+      "url": "https://github.com/Neelshah1810/Claude-Video-Skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "doublesq97-ui/su-card-to-video",
+      "category": "general",
+      "url": "https://github.com/doublesq97-ui/su-card-to-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "gloweaseco-leo/hyperdirector",
+      "category": "general",
+      "url": "https://github.com/gloweaseco-leo/hyperdirector",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "vawe-hq/vawe",
+      "category": "general",
+      "url": "https://github.com/vawe-hq/vawe",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "Kimeur/motion-launch-videos",
+      "category": "general",
+      "url": "https://github.com/Kimeur/motion-launch-videos",
+      "license": "MIT"
+    },
+    {
+      "repo": "RajaskaJanuardani/motion-craft",
+      "category": "general",
+      "url": "https://github.com/RajaskaJanuardani/motion-craft",
+      "license": "MIT"
+    },
+    {
+      "repo": "magichourhq/skills",
+      "category": "general",
+      "url": "https://github.com/magichourhq/skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "tmakersas/revid-skills",
+      "category": "general",
+      "url": "https://github.com/tmakersas/revid-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "VasiniDevi/motion-skills",
+      "category": "general",
+      "url": "https://github.com/VasiniDevi/motion-skills"
+    },
+    {
+      "repo": "argus-metis/hermes-video-editing",
+      "category": "general",
+      "url": "https://github.com/argus-metis/hermes-video-editing",
+      "license": "MIT"
+    },
+    {
+      "repo": "chenyuxiaojin/cyxj-remotion-starter",
+      "category": "general",
+      "url": "https://github.com/chenyuxiaojin/cyxj-remotion-starter",
+      "license": "MIT"
+    },
+    {
+      "repo": "davidcervinka/vibe-editing",
+      "category": "general",
+      "url": "https://github.com/davidcervinka/vibe-editing",
+      "license": "MIT"
+    },
+    {
+      "repo": "diko0071/remotion-video-skills",
+      "category": "general",
+      "url": "https://github.com/diko0071/remotion-video-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "molkex/mcp-flow-google",
+      "category": "general",
+      "url": "https://github.com/molkex/mcp-flow-google",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "resemble-ai/remotion-resemble-skill",
+      "category": "general",
+      "url": "https://github.com/resemble-ai/remotion-resemble-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "MakeMyClip/editor",
+      "category": "general",
+      "url": "https://github.com/MakeMyClip/editor",
+      "license": "MIT"
+    },
+    {
+      "repo": "kmilo93sd/agent-video-editor",
+      "category": "general",
+      "url": "https://github.com/kmilo93sd/agent-video-editor",
+      "license": "MIT"
+    },
+    {
+      "repo": "patraxo/ltx2-vidgen-skill",
+      "category": "general",
+      "url": "https://github.com/patraxo/ltx2-vidgen-skill",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "vibe-motion/remotion-starter",
+      "category": "general",
+      "url": "https://github.com/vibe-motion/remotion-starter",
+      "license": "MIT"
+    },
+    {
+      "repo": "hraness/slopcamera",
+      "category": "general",
+      "url": "https://github.com/hraness/slopcamera",
+      "license": "MIT"
+    },
+    {
+      "repo": "iart-ai/text-message-video-skills",
+      "category": "general",
+      "url": "https://github.com/iart-ai/text-message-video-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "liaojianquan9-source/ljq-broll-video-generator",
+      "category": "general",
+      "url": "https://github.com/liaojianquan9-source/ljq-broll-video-generator",
+      "license": "MIT"
+    },
+    {
+      "repo": "shaderera/shaderera",
+      "category": "general",
+      "url": "https://github.com/shaderera/shaderera",
+      "license": "MIT"
+    },
+    {
+      "repo": "synchronicity-labs/skills",
+      "category": "general",
+      "url": "https://github.com/synchronicity-labs/skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "mackswendhell/motion-code",
+      "category": "general",
+      "url": "https://github.com/mackswendhell/motion-code"
+    },
+    {
+      "repo": "oxygenframe/oxframe-sdk",
+      "category": "general",
+      "url": "https://github.com/oxygenframe/oxframe-sdk",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "AnmolChandiok/claude-after-effects-skill",
+      "category": "general",
+      "url": "https://github.com/AnmolChandiok/claude-after-effects-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "Shugar86/vids-studio",
+      "category": "general",
+      "url": "https://github.com/Shugar86/vids-studio",
+      "license": "MIT"
+    },
+    {
+      "repo": "chrisopal/narrated-video-studio",
+      "category": "general",
+      "url": "https://github.com/chrisopal/narrated-video-studio",
+      "license": "MIT"
+    },
+    {
+      "repo": "siegerts/skill-canvas-video",
+      "category": "general",
+      "url": "https://github.com/siegerts/skill-canvas-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "superyhee/hypr-video-skills",
+      "category": "general",
+      "url": "https://github.com/superyhee/hypr-video-skills"
+    },
+    {
+      "repo": "wzslr321/fixtape",
+      "category": "general",
+      "url": "https://github.com/wzslr321/fixtape",
+      "license": "MIT"
+    },
+    {
+      "repo": "huaxialucaicaizi/opus5.5-video-skills-",
+      "category": "general",
+      "url": "https://github.com/huaxialucaicaizi/opus5.5-video-skills-",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "feitangyuan/onetake",
+      "category": "promo",
+      "url": "https://github.com/feitangyuan/onetake",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "Tejashmakwana/motionmaxxing",
+      "category": "promo",
+      "url": "https://github.com/Tejashmakwana/motionmaxxing",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "echris6/motion-video-kit",
+      "category": "promo",
+      "url": "https://github.com/echris6/motion-video-kit",
+      "license": "MIT"
+    },
+    {
+      "repo": "op7418/guizang-product-video-skill",
+      "category": "promo",
+      "url": "https://github.com/op7418/guizang-product-video-skill",
+      "license": "AGPL-3.0"
+    },
+    {
+      "repo": "howseen-ai/claude-motion-design",
+      "category": "promo",
+      "url": "https://github.com/howseen-ai/claude-motion-design",
+      "license": "MIT"
+    },
+    {
+      "repo": "charlie947/motion-graphics-skills",
+      "category": "promo",
+      "url": "https://github.com/charlie947/motion-graphics-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "geekjourneyx/hyperframes-motion-director",
+      "category": "promo",
+      "url": "https://github.com/geekjourneyx/hyperframes-motion-director",
+      "license": "AGPL-3.0"
+    },
+    {
+      "repo": "AbubakrChan/product-launch-motion",
+      "category": "promo",
+      "url": "https://github.com/AbubakrChan/product-launch-motion",
+      "license": "MIT"
+    },
+    {
+      "repo": "Jane-xiaoer/paper-collage-ad-codex",
+      "category": "promo",
+      "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
+      "license": "MIT"
+    },
+    {
+      "repo": "aaitor/skill-video-studio",
+      "category": "promo",
+      "url": "https://github.com/aaitor/skill-video-studio",
+      "license": "MIT"
+    },
+    {
+      "repo": "Kianzzz/xilo-opus-video",
+      "category": "promo",
+      "url": "https://github.com/Kianzzz/xilo-opus-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "talsiach/take-one",
+      "category": "promo",
+      "url": "https://github.com/talsiach/take-one",
+      "license": "MIT"
+    },
+    {
+      "repo": "tugrawork-creator/saas-motion-kit",
+      "category": "promo",
+      "url": "https://github.com/tugrawork-creator/saas-motion-kit",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "Finderchangchang/promo-video-skill",
+      "category": "promo",
+      "url": "https://github.com/Finderchangchang/promo-video-skill",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "Sunwood-ai-labs/hyperframes-motion-reel-skill",
+      "category": "promo",
+      "url": "https://github.com/Sunwood-ai-labs/hyperframes-motion-reel-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "kingselyjoe/video-shotcraft-dsh",
+      "category": "promo",
+      "url": "https://github.com/kingselyjoe/video-shotcraft-dsh",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "bestagentkits/motion-video-skill",
+      "category": "promo",
+      "url": "https://github.com/bestagentkits/motion-video-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "kangarooking/promo-creator-skills",
+      "category": "promo",
+      "url": "https://github.com/kangarooking/promo-creator-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "leosssvip-dot/remotion-ad-video-skill",
+      "category": "promo",
+      "url": "https://github.com/leosssvip-dot/remotion-ad-video-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "gmpetrov/agent-screenplay",
+      "category": "promo",
+      "url": "https://github.com/gmpetrov/agent-screenplay",
+      "license": "MIT"
+    },
+    {
+      "repo": "Avijit07x/cursorcam",
+      "category": "promo",
+      "url": "https://github.com/Avijit07x/cursorcam",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "Mort1d/motion-graphics-skills",
+      "category": "promo",
+      "url": "https://github.com/Mort1d/motion-graphics-skills",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "revfactory/showreel",
+      "category": "promo",
+      "url": "https://github.com/revfactory/showreel",
+      "license": "MIT"
+    },
+    {
+      "repo": "noamdorr/saas-product-demo-video",
+      "category": "promo",
+      "url": "https://github.com/noamdorr/saas-product-demo-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "krisyangdev/motionboard",
+      "category": "promo",
+      "url": "https://github.com/krisyangdev/motionboard",
+      "license": "MIT"
+    },
+    {
+      "repo": "norahe0304-art/30x-video",
+      "category": "promo",
+      "url": "https://github.com/norahe0304-art/30x-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "axtonliu/video-illustrator",
+      "category": "promo",
+      "url": "https://github.com/axtonliu/video-illustrator",
+      "license": "MIT"
+    },
+    {
+      "repo": "trunghaiy/appshot",
+      "category": "promo",
+      "url": "https://github.com/trunghaiy/appshot",
+      "license": "MIT"
+    },
+    {
+      "repo": "imMamdouhaboammar/motion-graphics-skills",
+      "category": "promo",
+      "url": "https://github.com/imMamdouhaboammar/motion-graphics-skills",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "Zane-0x5a/remotion-director",
+      "category": "promo",
+      "url": "https://github.com/Zane-0x5a/remotion-director",
+      "license": "MIT"
+    },
+    {
+      "repo": "new-xp/ultrademo",
+      "category": "promo",
+      "url": "https://github.com/new-xp/ultrademo",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "rjmahesh/ui-redline-walkthrough",
+      "category": "promo",
+      "url": "https://github.com/rjmahesh/ui-redline-walkthrough",
+      "license": "MIT"
+    },
+    {
+      "repo": "BayramAnnakov/remotion-video-director",
+      "category": "promo",
+      "url": "https://github.com/BayramAnnakov/remotion-video-director"
+    },
+    {
+      "repo": "mattivilola/brag-codex",
+      "category": "promo",
+      "url": "https://github.com/mattivilola/brag-codex",
+      "license": "MIT"
+    },
+    {
+      "repo": "crimeacs/product-demo-director",
+      "category": "promo",
+      "url": "https://github.com/crimeacs/product-demo-director",
+      "license": "MIT"
+    },
+    {
+      "repo": "every-app/video-skills",
+      "category": "promo",
+      "url": "https://github.com/every-app/video-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "gorkem-bwl/onboarding-video-generator",
+      "category": "promo",
+      "url": "https://github.com/gorkem-bwl/onboarding-video-generator",
+      "license": "MIT"
+    },
+    {
+      "repo": "SallyRS/video-director",
+      "category": "promo",
+      "url": "https://github.com/SallyRS/video-director",
+      "license": "MIT"
+    },
+    {
+      "repo": "dlazy-ai/ai-product-video",
+      "category": "promo",
+      "url": "https://github.com/dlazy-ai/ai-product-video",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "Arman-Luthra/aftr",
+      "category": "promo",
+      "url": "https://github.com/Arman-Luthra/aftr",
+      "license": "MIT"
+    },
+    {
+      "repo": "memex-lab/product-launch-video-skill",
+      "category": "promo",
+      "url": "https://github.com/memex-lab/product-launch-video-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "IskakovDamir/apple-motion",
+      "category": "promo",
+      "url": "https://github.com/IskakovDamir/apple-motion",
+      "license": "MIT"
+    },
+    {
+      "repo": "derrickgong87/demo-video-creation-skill",
+      "category": "promo",
+      "url": "https://github.com/derrickgong87/demo-video-creation-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "Hainrixz/motion-architect",
+      "category": "promo",
+      "url": "https://github.com/Hainrixz/motion-architect",
+      "license": "MIT"
+    },
+    {
+      "repo": "AmazingAng/ccvideo",
+      "category": "promo",
+      "url": "https://github.com/AmazingAng/ccvideo",
+      "license": "MIT"
+    },
+    {
+      "repo": "timscheuerai/launch-video-kit",
+      "category": "promo",
+      "url": "https://github.com/timscheuerai/launch-video-kit",
+      "license": "MIT"
+    },
+    {
+      "repo": "cblain100-prog/motion-design-claude-code",
+      "category": "promo",
+      "url": "https://github.com/cblain100-prog/motion-design-claude-code",
+      "license": "MIT"
+    },
+    {
+      "repo": "iart-ai/ad-video-skills",
+      "category": "promo",
+      "url": "https://github.com/iart-ai/ad-video-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "chacha95/demo-video-creator",
+      "category": "promo",
+      "url": "https://github.com/chacha95/demo-video-creator",
+      "license": "MIT"
+    },
+    {
+      "repo": "mrieck/demoday-claude-plugin",
+      "category": "promo",
+      "url": "https://github.com/mrieck/demoday-claude-plugin",
+      "license": "MIT"
+    },
+    {
+      "repo": "smit-vanani/claude-promo-video",
+      "category": "promo",
+      "url": "https://github.com/smit-vanani/claude-promo-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "AmirSbss/spotlight",
+      "category": "promo",
+      "url": "https://github.com/AmirSbss/spotlight",
+      "license": "MIT"
+    },
+    {
+      "repo": "mad-helpers/motion-harness",
+      "category": "promo",
+      "url": "https://github.com/mad-helpers/motion-harness",
+      "license": "MIT"
+    },
+    {
+      "repo": "kiki-lgtm-dot/cinematic-product-promo-skill",
+      "category": "promo",
+      "url": "https://github.com/kiki-lgtm-dot/cinematic-product-promo-skill",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "welingtondesosa/video-motion",
+      "category": "promo",
+      "url": "https://github.com/welingtondesosa/video-motion",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "opus-pro/opusclip-video-tools",
+      "category": "promo",
+      "url": "https://github.com/opus-pro/opusclip-video-tools"
+    },
+    {
+      "repo": "suntay44/motionable",
+      "category": "promo",
+      "url": "https://github.com/suntay44/motionable",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "JohnChow90/video-shotcraft",
+      "category": "promo",
+      "url": "https://github.com/JohnChow90/video-shotcraft",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "jammaru/launch-video-craft",
+      "category": "promo",
+      "url": "https://github.com/jammaru/launch-video-craft",
+      "license": "MIT"
+    },
+    {
+      "repo": "syklayou-glitch/video-shotcraft",
+      "category": "promo",
+      "url": "https://github.com/syklayou-glitch/video-shotcraft",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "y-wi/horizon-montage-generic",
+      "category": "promo",
+      "url": "https://github.com/y-wi/horizon-montage-generic",
+      "license": "MIT"
+    },
+    {
+      "repo": "Karnaf0katom/taskfilm",
+      "category": "promo",
+      "url": "https://github.com/Karnaf0katom/taskfilm",
+      "license": "MIT"
+    },
+    {
+      "repo": "david-d2c2/motion-promo-reels",
+      "category": "promo",
+      "url": "https://github.com/david-d2c2/motion-promo-reels",
+      "license": "MIT"
+    },
+    {
+      "repo": "Anshgrover23/product-demo-playbook",
+      "category": "promo",
+      "url": "https://github.com/Anshgrover23/product-demo-playbook"
+    },
+    {
+      "repo": "precious112/demo-director",
+      "category": "promo",
+      "url": "https://github.com/precious112/demo-director",
+      "license": "MIT"
+    },
+    {
+      "repo": "sub-level/marketing-videos",
+      "category": "promo",
+      "url": "https://github.com/sub-level/marketing-videos",
+      "license": "MIT"
+    },
+    {
+      "repo": "xsourabhsharma/remotion-marketing-video-skill",
+      "category": "promo",
+      "url": "https://github.com/xsourabhsharma/remotion-marketing-video-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "ChenShuo2004/cs-shotcraft-skill",
+      "category": "promo",
+      "url": "https://github.com/ChenShuo2004/cs-shotcraft-skill",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "hamen/app-promo-reel",
+      "category": "promo",
+      "url": "https://github.com/hamen/app-promo-reel",
+      "license": "MIT"
+    },
+    {
+      "repo": "haxzie/genmotion",
+      "category": "promo",
+      "url": "https://github.com/haxzie/genmotion"
+    },
+    {
+      "repo": "holy-templar/static-to-video-ad",
+      "category": "promo",
+      "url": "https://github.com/holy-templar/static-to-video-ad",
+      "license": "AGPL-3.0"
+    },
+    {
+      "repo": "lumian2015/opus-5-5-video-templates",
+      "category": "promo",
+      "url": "https://github.com/lumian2015/opus-5-5-video-templates",
+      "license": "MIT"
+    },
+    {
+      "repo": "dauletbekalim/motion-ui-videos",
+      "category": "promo",
+      "url": "https://github.com/dauletbekalim/motion-ui-videos",
+      "license": "MIT"
+    },
+    {
+      "repo": "farming-labs/product-film-skill",
+      "category": "promo",
+      "url": "https://github.com/farming-labs/product-film-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "hub-ki/video-generation",
+      "category": "promo",
+      "url": "https://github.com/hub-ki/video-generation",
+      "license": "MIT"
+    },
+    {
+      "repo": "muayadjamal/flow-video-recorder",
+      "category": "promo",
+      "url": "https://github.com/muayadjamal/flow-video-recorder",
+      "license": "MIT"
+    },
+    {
+      "repo": "AlexAnsart/demo-studio",
+      "category": "promo",
+      "url": "https://github.com/AlexAnsart/demo-studio",
+      "license": "MIT"
+    },
+    {
+      "repo": "GoRenku/studio",
+      "category": "promo",
+      "url": "https://github.com/GoRenku/studio",
+      "license": "AGPL-3.0"
+    },
+    {
+      "repo": "Teseife/diffusion-studio-codex",
+      "category": "promo",
+      "url": "https://github.com/Teseife/diffusion-studio-codex",
+      "license": "MIT"
+    },
+    {
+      "repo": "YahyaLendani/motionbrief-claude-skills",
+      "category": "promo",
+      "url": "https://github.com/YahyaLendani/motionbrief-claude-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "echoD886/dramacanvas-ai-filmmaking-mcp",
+      "category": "promo",
+      "url": "https://github.com/echoD886/dramacanvas-ai-filmmaking-mcp",
+      "license": "MIT"
+    },
+    {
+      "repo": "isaaclins/demo-video-skill",
+      "category": "promo",
+      "url": "https://github.com/isaaclins/demo-video-skill",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "murathany7/reel-studio",
+      "category": "promo",
+      "url": "https://github.com/murathany7/reel-studio",
+      "license": "MIT"
+    },
+    {
+      "repo": "patryk-penczek/ship-video",
+      "category": "promo",
+      "url": "https://github.com/patryk-penczek/ship-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "surajshetty3416/demo-video-skill",
+      "category": "promo",
+      "url": "https://github.com/surajshetty3416/demo-video-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "samuelstroschein/opus-video-generator",
+      "category": "promo",
+      "url": "https://github.com/samuelstroschein/opus-video-generator",
+      "license": "MIT"
+    },
+    {
+      "repo": "Alisa0808/vox-director",
+      "category": "explainer",
+      "url": "https://github.com/Alisa0808/vox-director",
+      "license": "MIT"
+    },
+    {
+      "repo": "adithya-s-k/manim_skill",
+      "category": "explainer",
+      "url": "https://github.com/adithya-s-k/manim_skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "vincentsch/explainroo",
+      "category": "explainer",
+      "url": "https://github.com/vincentsch/explainroo",
+      "license": "MIT"
+    },
+    {
+      "repo": "GTKottman/mortiflix-oss",
+      "category": "explainer",
+      "url": "https://github.com/GTKottman/mortiflix-oss",
+      "license": "AGPL-3.0"
+    },
+    {
+      "repo": "HeyChengC/wallstreet-explainer",
+      "category": "explainer",
+      "url": "https://github.com/HeyChengC/wallstreet-explainer",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "wshuyi/remotion-video-skill",
+      "category": "explainer",
+      "url": "https://github.com/wshuyi/remotion-video-skill"
+    },
+    {
+      "repo": "hi-nikola/hand-drawn-explainer-video-nikola",
+      "category": "explainer",
+      "url": "https://github.com/hi-nikola/hand-drawn-explainer-video-nikola",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "moguzbulbul/blueprint-animation",
+      "category": "explainer",
+      "url": "https://github.com/moguzbulbul/blueprint-animation",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "shuyicc/MathLens",
+      "category": "explainer",
+      "url": "https://github.com/shuyicc/MathLens"
+    },
+    {
+      "repo": "Anil-matcha/vox-ai-motion-graphics-generator",
+      "category": "explainer",
+      "url": "https://github.com/Anil-matcha/vox-ai-motion-graphics-generator"
+    },
+    {
+      "repo": "chuspeeism/dashi-animationstyle",
+      "category": "explainer",
+      "url": "https://github.com/chuspeeism/dashi-animationstyle",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "haiderfarooq3/khan-explainer",
+      "category": "explainer",
+      "url": "https://github.com/haiderfarooq3/khan-explainer",
+      "license": "MIT"
+    },
+    {
+      "repo": "derek-zhuolin/motion-skill",
+      "category": "explainer",
+      "url": "https://github.com/derek-zhuolin/motion-skill",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "runesleo/claude-video-kit",
+      "category": "explainer",
+      "url": "https://github.com/runesleo/claude-video-kit",
+      "license": "MIT"
+    },
+    {
+      "repo": "iart-ai/explainer-video-skills",
+      "category": "explainer",
+      "url": "https://github.com/iart-ai/explainer-video-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "Moh4696/cinematic-skill",
+      "category": "explainer",
+      "url": "https://github.com/Moh4696/cinematic-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "holy-templar/vox-animated-ad-mcp",
+      "category": "explainer",
+      "url": "https://github.com/holy-templar/vox-animated-ad-mcp",
+      "license": "AGPL-3.0"
+    },
+    {
+      "repo": "sunxiayi/make-blender-education-video-skill",
+      "category": "explainer",
+      "url": "https://github.com/sunxiayi/make-blender-education-video-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "threerocks/sweety-statechart-video",
+      "category": "explainer",
+      "url": "https://github.com/threerocks/sweety-statechart-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "znyupup/knowledge-explainer-skill",
+      "category": "explainer",
+      "url": "https://github.com/znyupup/knowledge-explainer-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "GODGOD126/opus-5-5-86-styles-in-motion",
+      "category": "explainer",
+      "url": "https://github.com/GODGOD126/opus-5-5-86-styles-in-motion"
+    },
+    {
+      "repo": "SpeedPainterOrg/explainer-video",
+      "category": "explainer",
+      "url": "https://github.com/SpeedPainterOrg/explainer-video"
+    },
+    {
+      "repo": "Anil-matcha/zack-d-films-ai-video-generator",
+      "category": "explainer",
+      "url": "https://github.com/Anil-matcha/zack-d-films-ai-video-generator"
+    },
+    {
+      "repo": "SunandBean/paper2video",
+      "category": "explainer",
+      "url": "https://github.com/SunandBean/paper2video",
+      "license": "MIT"
+    },
+    {
+      "repo": "AmitSubhash/3brown1blue",
+      "category": "explainer",
+      "url": "https://github.com/AmitSubhash/3brown1blue",
+      "license": "MIT"
+    },
+    {
+      "repo": "vibe-motion/remotion-code-motion-explainer",
+      "category": "explainer",
+      "url": "https://github.com/vibe-motion/remotion-code-motion-explainer",
+      "license": "MIT"
+    },
+    {
+      "repo": "Agentchengfeng/chengfeng-video-styles",
+      "category": "explainer",
+      "url": "https://github.com/Agentchengfeng/chengfeng-video-styles",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "santmun/video-vox",
+      "category": "explainer",
+      "url": "https://github.com/santmun/video-vox"
+    },
+    {
+      "repo": "Mr-funny/hbg-douyin-code-explainer-video",
+      "category": "explainer",
+      "url": "https://github.com/Mr-funny/hbg-douyin-code-explainer-video"
+    },
+    {
+      "repo": "vakovalskii/nd-video-studio",
+      "category": "explainer",
+      "url": "https://github.com/vakovalskii/nd-video-studio",
+      "license": "MIT"
+    },
+    {
+      "repo": "ahmdd4vd/MotionCraft",
+      "category": "explainer",
+      "url": "https://github.com/ahmdd4vd/MotionCraft",
+      "license": "MIT"
+    },
+    {
+      "repo": "124zhe/xigua-msvideo-skill",
+      "category": "explainer",
+      "url": "https://github.com/124zhe/xigua-msvideo-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "Phantomlau3674/voxstylehub-steven",
+      "category": "explainer",
+      "url": "https://github.com/Phantomlau3674/voxstylehub-steven",
+      "license": "MIT"
+    },
+    {
+      "repo": "dy-hashiqi/VibeDS-skill",
+      "category": "explainer",
+      "url": "https://github.com/dy-hashiqi/VibeDS-skill",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "BusyBee3333/animated-explainer-skills",
+      "category": "explainer",
+      "url": "https://github.com/BusyBee3333/animated-explainer-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "iart-ai/map-animation-skills",
+      "category": "explainer",
+      "url": "https://github.com/iart-ai/map-animation-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "indieshade/video-director-workflow",
+      "category": "explainer",
+      "url": "https://github.com/indieshade/video-director-workflow",
+      "license": "MIT"
+    },
+    {
+      "repo": "paullabs/espaco-em-codigo",
+      "category": "explainer",
+      "url": "https://github.com/paullabs/espaco-em-codigo",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "Mng-dev-ai/explainer-video",
+      "category": "explainer",
+      "url": "https://github.com/Mng-dev-ai/explainer-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "aijiduonadegou/Paper-Cut",
+      "category": "explainer",
+      "url": "https://github.com/aijiduonadegou/Paper-Cut",
+      "license": "MIT"
+    },
+    {
+      "repo": "Matteoikarieth96/whiteboard-video-skill",
+      "category": "explainer",
+      "url": "https://github.com/Matteoikarieth96/whiteboard-video-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "reedodev/explainer-studio",
+      "category": "explainer",
+      "url": "https://github.com/reedodev/explainer-studio",
+      "license": "MIT"
+    },
+    {
+      "repo": "cclank/lanshu-html2video-skill",
+      "category": "explainer",
+      "url": "https://github.com/cclank/lanshu-html2video-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "chenyuxiaojin/cyxj-hyperframes",
+      "category": "explainer",
+      "url": "https://github.com/chenyuxiaojin/cyxj-hyperframes",
+      "license": "MIT"
+    },
+    {
+      "repo": "chenjun198711/book-video-generator",
+      "category": "explainer",
+      "url": "https://github.com/chenjun198711/book-video-generator",
+      "license": "MIT"
+    },
+    {
+      "repo": "feicaiclub/knowledge-easy",
+      "category": "explainer",
+      "url": "https://github.com/feicaiclub/knowledge-easy"
+    },
+    {
+      "repo": "liuliu-66-create/ll-video-edit",
+      "category": "explainer",
+      "url": "https://github.com/liuliu-66-create/ll-video-edit"
+    },
+    {
+      "repo": "jaredcassoutt/vox-editorial",
+      "category": "explainer",
+      "url": "https://github.com/jaredcassoutt/vox-editorial",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "kakaxi12/vox-director-codex",
+      "category": "explainer",
+      "url": "https://github.com/kakaxi12/vox-director-codex"
+    },
+    {
+      "repo": "Science-Prof-Robot/recursive-math-animator",
+      "category": "explainer",
+      "url": "https://github.com/Science-Prof-Robot/recursive-math-animator",
+      "license": "MIT"
+    },
+    {
+      "repo": "fltman/infofilm",
+      "category": "explainer",
+      "url": "https://github.com/fltman/infofilm",
+      "license": "MIT"
+    },
+    {
+      "repo": "Lunamos/paper2video",
+      "category": "explainer",
+      "url": "https://github.com/Lunamos/paper2video",
+      "license": "MIT"
+    },
+    {
+      "repo": "gquthier/autonomous-sop-video",
+      "category": "explainer",
+      "url": "https://github.com/gquthier/autonomous-sop-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "undsky/doudou-remotion-whiteboard-skill",
+      "category": "explainer",
+      "url": "https://github.com/undsky/doudou-remotion-whiteboard-skill",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "sepi2p/research-explainer-skill",
+      "category": "explainer",
+      "url": "https://github.com/sepi2p/research-explainer-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "ssrajadh/paperview",
+      "category": "explainer",
+      "url": "https://github.com/ssrajadh/paperview",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "syydaniel/kazi",
+      "category": "explainer",
+      "url": "https://github.com/syydaniel/kazi",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "0x68616F4C/auto-popsci",
+      "category": "explainer",
+      "url": "https://github.com/0x68616F4C/auto-popsci"
+    },
+    {
+      "repo": "aliangSSS/aliang-knowledge-video",
+      "category": "explainer",
+      "url": "https://github.com/aliangSSS/aliang-knowledge-video",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "mathruffian-dot/claude-motion-explainer-images",
+      "category": "explainer",
+      "url": "https://github.com/mathruffian-dot/claude-motion-explainer-images",
+      "license": "MIT"
+    },
+    {
+      "repo": "sukai213/bilibili-ai-video",
+      "category": "explainer",
+      "url": "https://github.com/sukai213/bilibili-ai-video"
+    },
+    {
+      "repo": "Acorn2/frame-loom",
+      "category": "explainer",
+      "url": "https://github.com/Acorn2/frame-loom",
+      "license": "MIT"
+    },
+    {
+      "repo": "Ali-Aria/aria-animator",
+      "category": "explainer",
+      "url": "https://github.com/Ali-Aria/aria-animator",
+      "license": "MIT"
+    },
+    {
+      "repo": "alireza12t/foldline",
+      "category": "explainer",
+      "url": "https://github.com/alireza12t/foldline",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "coding-ax/docvideoer",
+      "category": "explainer",
+      "url": "https://github.com/coding-ax/docvideoer",
+      "license": "MIT"
+    },
+    {
+      "repo": "cymcymcymcym/notes-to-video",
+      "category": "explainer",
+      "url": "https://github.com/cymcymcymcym/notes-to-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "isabellagreco1997/script-to-video",
+      "category": "explainer",
+      "url": "https://github.com/isabellagreco1997/script-to-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "jinjin1/scenewright",
+      "category": "explainer",
+      "url": "https://github.com/jinjin1/scenewright",
+      "license": "MIT"
+    },
+    {
+      "repo": "jjietay/clayducation",
+      "category": "explainer",
+      "url": "https://github.com/jjietay/clayducation",
+      "license": "MIT"
+    },
+    {
+      "repo": "mathruffian-dot/claude-motion-explainer-video",
+      "category": "explainer",
+      "url": "https://github.com/mathruffian-dot/claude-motion-explainer-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "pjecuacion/script-to-video-skill",
+      "category": "explainer",
+      "url": "https://github.com/pjecuacion/script-to-video-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "Nealsun1993/talk-workbench",
+      "category": "explainer",
+      "url": "https://github.com/Nealsun1993/talk-workbench",
+      "license": "MIT"
+    },
+    {
+      "repo": "OnurGumus/codebase-video",
+      "category": "explainer",
+      "url": "https://github.com/OnurGumus/codebase-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "centraltowerlabs/diagram-tour",
+      "category": "explainer",
+      "url": "https://github.com/centraltowerlabs/diagram-tour",
+      "license": "MIT"
+    },
+    {
+      "repo": "crawfordxx/paper-cut-video-skill",
+      "category": "explainer",
+      "url": "https://github.com/crawfordxx/paper-cut-video-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "hdduytran/one-studio-skill",
+      "category": "explainer",
+      "url": "https://github.com/hdduytran/one-studio-skill"
+    },
+    {
+      "repo": "sanskarprajapati/parallax-doc",
+      "category": "explainer",
+      "url": "https://github.com/sanskarprajapati/parallax-doc",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "arthurkatcher/explainer-video",
+      "category": "explainer",
+      "url": "https://github.com/arthurkatcher/explainer-video"
+    },
+    {
+      "repo": "beriki770-ship-it/code-animations",
+      "category": "explainer",
+      "url": "https://github.com/beriki770-ship-it/code-animations",
+      "license": "MIT"
+    },
+    {
+      "repo": "ekomen77/erko-ai-video-engine",
+      "category": "explainer",
+      "url": "https://github.com/ekomen77/erko-ai-video-engine",
+      "license": "MIT"
+    },
+    {
+      "repo": "rocketmandrey/stickman-director",
+      "category": "explainer",
+      "url": "https://github.com/rocketmandrey/stickman-director",
+      "license": "MIT"
+    },
+    {
+      "repo": "tmoody1973/pasteup",
+      "category": "explainer",
+      "url": "https://github.com/tmoody1973/pasteup",
+      "license": "MIT"
+    },
+    {
+      "repo": "RohanRatwani/explainer-video-opus-5.5",
+      "category": "explainer",
+      "url": "https://github.com/RohanRatwani/explainer-video-opus-5.5",
+      "license": "MIT"
+    },
+    {
+      "repo": "EverMind-AI/Raven",
+      "category": "explainer",
+      "url": "https://github.com/EverMind-AI/Raven",
+      "path": "skills/git-story-film",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "FireRedTeam/FireRed-OpenStoryline",
+      "category": "editing",
+      "url": "https://github.com/FireRedTeam/FireRed-OpenStoryline",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "Agentchengfeng/chengfeng-videocut-skills",
+      "category": "editing",
+      "url": "https://github.com/Agentchengfeng/chengfeng-videocut-skills",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "0xsline/OpenChatCut",
+      "category": "editing",
+      "url": "https://github.com/0xsline/OpenChatCut",
+      "license": "AGPL-3.0"
+    },
+    {
+      "repo": "JimLiu/baocut",
+      "category": "editing",
+      "url": "https://github.com/JimLiu/baocut",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "pireel/pireel",
+      "category": "editing",
+      "url": "https://github.com/pireel/pireel",
+      "license": "AGPL-3.0"
+    },
+    {
+      "repo": "Barty-Bart/motion-graphics",
+      "category": "editing",
+      "url": "https://github.com/Barty-Bart/motion-graphics",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "hetpatel-11/Adobe_Premiere_Pro_MCP",
+      "category": "editing",
+      "url": "https://github.com/hetpatel-11/Adobe_Premiere_Pro_MCP",
+      "license": "MIT"
+    },
+    {
+      "repo": "Vibha-Ramprakash/claude-video-effects",
+      "category": "editing",
+      "url": "https://github.com/Vibha-Ramprakash/claude-video-effects",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "cartesiancs/cartcut",
+      "category": "editing",
+      "url": "https://github.com/cartesiancs/cartcut",
+      "license": "MIT"
+    },
+    {
+      "repo": "zenstory-ai/video-recap-skills",
+      "category": "editing",
+      "url": "https://github.com/zenstory-ai/video-recap-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "leancoderkavy/premiere-pro-mcp",
+      "category": "editing",
+      "url": "https://github.com/leancoderkavy/premiere-pro-mcp",
+      "license": "MIT"
+    },
+    {
+      "repo": "YeJe-cpu/SeeCut",
+      "category": "editing",
+      "url": "https://github.com/YeJe-cpu/SeeCut",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "hassancs91/claude-youtube-editor",
+      "category": "editing",
+      "url": "https://github.com/hassancs91/claude-youtube-editor",
+      "license": "MIT"
+    },
+    {
+      "repo": "AgriciDaniel/claude-shorts",
+      "category": "editing",
+      "url": "https://github.com/AgriciDaniel/claude-shorts",
+      "license": "MIT"
+    },
+    {
+      "repo": "kurbaitaev/ghost-editor",
+      "category": "editing",
+      "url": "https://github.com/kurbaitaev/ghost-editor",
+      "license": "MIT"
+    },
+    {
+      "repo": "erduo1998-cell/erduo-broll-loop-engineering",
+      "category": "editing",
+      "url": "https://github.com/erduo1998-cell/erduo-broll-loop-engineering",
+      "license": "MIT"
+    },
+    {
+      "repo": "Cassette-Editor/oh-my-cassette",
+      "category": "editing",
+      "url": "https://github.com/Cassette-Editor/oh-my-cassette",
+      "license": "MIT"
+    },
+    {
+      "repo": "znyupup/ai-video-editing-skill",
+      "category": "editing",
+      "url": "https://github.com/znyupup/ai-video-editing-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "krusemediallc/video-editor-agent",
+      "category": "editing",
+      "url": "https://github.com/krusemediallc/video-editor-agent"
+    },
+    {
+      "repo": "ayushozha/AdobePremiereProMCP",
+      "category": "editing",
+      "url": "https://github.com/ayushozha/AdobePremiereProMCP",
+      "license": "MIT"
+    },
+    {
+      "repo": "Xiangyu-CAS/rea-capcut",
+      "category": "editing",
+      "url": "https://github.com/Xiangyu-CAS/rea-capcut",
+      "license": "MIT"
+    },
+    {
+      "repo": "naive-kun/naive-video-skill",
+      "category": "editing",
+      "url": "https://github.com/naive-kun/naive-video-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "Monet-AI-Editor/Monet",
+      "category": "editing",
+      "url": "https://github.com/Monet-AI-Editor/Monet",
+      "license": "MIT"
+    },
+    {
+      "repo": "louisedesadeleer/cut-video",
+      "category": "editing",
+      "url": "https://github.com/louisedesadeleer/cut-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "AKMessi/vex",
+      "category": "editing",
+      "url": "https://github.com/AKMessi/vex",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "JUNKDOGE-JOE/after-effects-mcp",
+      "category": "editing",
+      "url": "https://github.com/JUNKDOGE-JOE/after-effects-mcp",
+      "license": "MIT"
+    },
+    {
+      "repo": "AISEO-VirtualabDigital/mcp-video-editor",
+      "category": "editing",
+      "url": "https://github.com/AISEO-VirtualabDigital/mcp-video-editor"
+    },
+    {
+      "repo": "artemnovitckii/claude-editing-skills",
+      "category": "editing",
+      "url": "https://github.com/artemnovitckii/claude-editing-skills",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "alisadiq-ai/favstash-ai-video-editing-skills",
+      "category": "editing",
+      "url": "https://github.com/alisadiq-ai/favstash-ai-video-editing-skills",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "RoverEva/eva-video-style",
+      "category": "editing",
+      "url": "https://github.com/RoverEva/eva-video-style",
+      "license": "MIT"
+    },
+    {
+      "repo": "hahadu4520/vlog-cut",
+      "category": "editing",
+      "url": "https://github.com/hahadu4520/vlog-cut",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "ops120/video-recap-skills-plus",
+      "category": "editing",
+      "url": "https://github.com/ops120/video-recap-skills-plus",
+      "license": "MIT"
+    },
+    {
+      "repo": "darrenli6/JJKoubo",
+      "category": "editing",
+      "url": "https://github.com/darrenli6/JJKoubo",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "Kappaemme-git/codex-video-short-maker-skill",
+      "category": "editing",
+      "url": "https://github.com/Kappaemme-git/codex-video-short-maker-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "frankShan001/CutVoke",
+      "category": "editing",
+      "url": "https://github.com/frankShan001/CutVoke",
+      "license": "MIT"
+    },
+    {
+      "repo": "skailabinfo/claude-video-harness",
+      "category": "editing",
+      "url": "https://github.com/skailabinfo/claude-video-harness",
+      "license": "MIT"
+    },
+    {
+      "repo": "Hainrixz/video-editor-architect",
+      "category": "editing",
+      "url": "https://github.com/Hainrixz/video-editor-architect",
+      "license": "MIT"
+    },
+    {
+      "repo": "denyakortunov/family-travel-editor",
+      "category": "editing",
+      "url": "https://github.com/denyakortunov/family-travel-editor",
+      "license": "MIT"
+    },
+    {
+      "repo": "onuryildriim/claude-kurgu-atolyesi",
+      "category": "editing",
+      "url": "https://github.com/onuryildriim/claude-kurgu-atolyesi",
+      "license": "MIT"
+    },
+    {
+      "repo": "rahlquist/hermes-video-toolchain",
+      "category": "editing",
+      "url": "https://github.com/rahlquist/hermes-video-toolchain",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "jincheng2026/jc-remotion-skills",
+      "category": "editing",
+      "url": "https://github.com/jincheng2026/jc-remotion-skills",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "davidbfrogman/davecto-cutroom",
+      "category": "editing",
+      "url": "https://github.com/davidbfrogman/davecto-cutroom"
+    },
+    {
+      "repo": "ZiadAbdelkarim/beat-synced-edit",
+      "category": "editing",
+      "url": "https://github.com/ZiadAbdelkarim/beat-synced-edit",
+      "license": "MIT"
+    },
+    {
+      "repo": "nomicsadmin/editor-video-ia",
+      "category": "editing",
+      "url": "https://github.com/nomicsadmin/editor-video-ia",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "PoetCoderJun/MotionTalk",
+      "category": "editing",
+      "url": "https://github.com/PoetCoderJun/MotionTalk",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "cocolayuan/videoclip-AI-skill",
+      "category": "editing",
+      "url": "https://github.com/cocolayuan/videoclip-AI-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "Fagan1024/smart-video-editor",
+      "category": "editing",
+      "url": "https://github.com/Fagan1024/smart-video-editor",
+      "license": "MIT"
+    },
+    {
+      "repo": "brookejlacey/boring-tools",
+      "category": "editing",
+      "url": "https://github.com/brookejlacey/boring-tools",
+      "license": "MIT"
+    },
+    {
+      "repo": "griffinwooldridge/talking-head-editor",
+      "category": "editing",
+      "url": "https://github.com/griffinwooldridge/talking-head-editor",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "qingyunAGI/qingyun-cine-skill",
+      "category": "editing",
+      "url": "https://github.com/qingyunAGI/qingyun-cine-skill"
+    },
+    {
+      "repo": "rtadewald/agent-video-editor",
+      "category": "editing",
+      "url": "https://github.com/rtadewald/agent-video-editor"
+    },
+    {
+      "repo": "d4niel-fr/shdw-video-editor",
+      "category": "editing",
+      "url": "https://github.com/d4niel-fr/shdw-video-editor",
+      "license": "AGPL-3.0"
+    },
+    {
+      "repo": "hahadu4520/newcut-video-clipping-skill",
+      "category": "editing",
+      "url": "https://github.com/hahadu4520/newcut-video-clipping-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "jackjls/jtxvideo-skill",
+      "category": "editing",
+      "url": "https://github.com/jackjls/jtxvideo-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "vincentventalon/claude-code-video-editing-skill",
+      "category": "editing",
+      "url": "https://github.com/vincentventalon/claude-code-video-editing-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "HibaBenzahra/HibAi-Editing-Studio",
+      "category": "editing",
+      "url": "https://github.com/HibaBenzahra/HibAi-Editing-Studio",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "UgurKeskekci/claude-video-kit",
+      "category": "editing",
+      "url": "https://github.com/UgurKeskekci/claude-video-kit",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "kajisho5/remotion-ffmpeg-skill",
+      "category": "editing",
+      "url": "https://github.com/kajisho5/remotion-ffmpeg-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "yerinsabraham/video-edit-skill",
+      "category": "editing",
+      "url": "https://github.com/yerinsabraham/video-edit-skill",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "adunext/adu-motion-video",
+      "category": "shorts",
+      "url": "https://github.com/adunext/adu-motion-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "artemnovitckii/claude-animation-skills",
+      "category": "shorts",
+      "url": "https://github.com/artemnovitckii/claude-animation-skills",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "Yuuhann1999/agent-storyboard",
+      "category": "shorts",
+      "url": "https://github.com/Yuuhann1999/agent-storyboard",
+      "license": "MIT"
+    },
+    {
+      "repo": "hassancs91/claude-faceless-shorts-creator",
+      "category": "shorts",
+      "url": "https://github.com/hassancs91/claude-faceless-shorts-creator",
+      "license": "MIT"
+    },
+    {
+      "repo": "Cuongyd196/remotion-cuongit-template",
+      "category": "shorts",
+      "url": "https://github.com/Cuongyd196/remotion-cuongit-template",
+      "license": "MIT"
+    },
+    {
+      "repo": "0xS4N4TG/papercut-explainer",
+      "category": "shorts",
+      "url": "https://github.com/0xS4N4TG/papercut-explainer",
+      "license": "MIT"
+    },
+    {
+      "repo": "haiderfarooq3/paper-reel",
+      "category": "shorts",
+      "url": "https://github.com/haiderfarooq3/paper-reel",
+      "license": "MIT"
+    },
+    {
+      "repo": "SpaceZephyr/map-motion",
+      "category": "shorts",
+      "url": "https://github.com/SpaceZephyr/map-motion",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "pycodebr/heditor",
+      "category": "shorts",
+      "url": "https://github.com/pycodebr/heditor",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "jaxxchen003/book-video-factory",
+      "category": "shorts",
+      "url": "https://github.com/jaxxchen003/book-video-factory",
+      "license": "MIT"
+    },
+    {
+      "repo": "ymybxx/SoloMCN",
+      "category": "shorts",
+      "url": "https://github.com/ymybxx/SoloMCN",
+      "license": "MIT"
+    },
+    {
+      "repo": "Chamanrajragu/purffle-shorts",
+      "category": "shorts",
+      "url": "https://github.com/Chamanrajragu/purffle-shorts",
+      "license": "MIT"
+    },
+    {
+      "repo": "Maartenlouis/remotion-ads",
+      "category": "shorts",
+      "url": "https://github.com/Maartenlouis/remotion-ads",
+      "license": "MIT"
+    },
+    {
+      "repo": "liangdabiao/story-handdrawn-video",
+      "category": "shorts",
+      "url": "https://github.com/liangdabiao/story-handdrawn-video"
+    },
+    {
+      "repo": "pyang5166/gbro-collage-info",
+      "category": "shorts",
+      "url": "https://github.com/pyang5166/gbro-collage-info",
+      "license": "MIT"
+    },
+    {
+      "repo": "threeaus/creator-style-kit",
+      "category": "shorts",
+      "url": "https://github.com/threeaus/creator-style-kit",
+      "license": "MIT"
+    },
+    {
+      "repo": "Phucanh-MRT/mrtkeyword",
+      "category": "shorts",
+      "url": "https://github.com/Phucanh-MRT/mrtkeyword"
+    },
+    {
+      "repo": "yammaku/typewriter-video",
+      "category": "shorts",
+      "url": "https://github.com/yammaku/typewriter-video",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "mattypark/Motion-graphics-skill",
+      "category": "shorts",
+      "url": "https://github.com/mattypark/Motion-graphics-skill"
+    },
+    {
+      "repo": "klsoen/opus-js-animations",
+      "category": "shorts",
+      "url": "https://github.com/klsoen/opus-js-animations",
+      "license": "MIT"
+    },
+    {
+      "repo": "TryWorld2026/paper-algorithm",
+      "category": "shorts",
+      "url": "https://github.com/TryWorld2026/paper-algorithm",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "repo": "Dancan254/shenghua",
+      "category": "shorts",
+      "url": "https://github.com/Dancan254/shenghua",
+      "license": "MIT"
+    },
+    {
+      "repo": "luispablovillasenor-afk/shorts-animados-claude",
+      "category": "shorts",
+      "url": "https://github.com/luispablovillasenor-afk/shorts-animados-claude",
+      "license": "MIT"
+    },
+    {
+      "repo": "aaksa/facecammaxxing",
+      "category": "shorts",
+      "url": "https://github.com/aaksa/facecammaxxing",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "ww-w-ai/super-video-agent",
+      "category": "shorts",
+      "url": "https://github.com/ww-w-ai/super-video-agent",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "iart-ai/tiktok-video-skills",
+      "category": "shorts",
+      "url": "https://github.com/iart-ai/tiktok-video-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "artemiimillier/skill-multik",
+      "category": "shorts",
+      "url": "https://github.com/artemiimillier/skill-multik",
+      "license": "MIT"
+    },
+    {
+      "repo": "yuwenbin121/book-video-production-skill",
+      "category": "shorts",
+      "url": "https://github.com/yuwenbin121/book-video-production-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "ouerf-man/kinetic-editorial-skill",
+      "category": "shorts",
+      "url": "https://github.com/ouerf-man/kinetic-editorial-skill"
+    },
+    {
+      "repo": "TheNoumanDev/zero-dollar-studio",
+      "category": "shorts",
+      "url": "https://github.com/TheNoumanDev/zero-dollar-studio",
+      "license": "MIT"
+    },
+    {
+      "repo": "intelligent-iterations/ii-content-engine",
+      "category": "shorts",
+      "url": "https://github.com/intelligent-iterations/ii-content-engine",
+      "license": "MIT"
+    },
+    {
+      "repo": "isaachang/motion-video-workflow",
+      "category": "shorts",
+      "url": "https://github.com/isaachang/motion-video-workflow",
+      "license": "MIT"
+    },
+    {
+      "repo": "social-media-skills/remotion-shorts-skill",
+      "category": "shorts",
+      "url": "https://github.com/social-media-skills/remotion-shorts-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "RahmanBuildsAI/ravyn-reel-kit",
+      "category": "shorts",
+      "url": "https://github.com/RahmanBuildsAI/ravyn-reel-kit",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "V413havai/vaibhav-video-editor",
+      "category": "shorts",
+      "url": "https://github.com/V413havai/vaibhav-video-editor",
+      "license": "MIT"
+    },
+    {
+      "repo": "adriiita/vertical-video-editing-skill",
+      "category": "shorts",
+      "url": "https://github.com/adriiita/vertical-video-editing-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "generalizingai/shadowcast",
+      "category": "shorts",
+      "url": "https://github.com/generalizingai/shadowcast",
+      "license": "MIT"
+    },
+    {
+      "repo": "wendymardigian-prog/Editor-IA-Pro",
+      "category": "shorts",
+      "url": "https://github.com/wendymardigian-prog/Editor-IA-Pro",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "Samin12/samin-reel-engine-plugin",
+      "category": "shorts",
+      "url": "https://github.com/Samin12/samin-reel-engine-plugin",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "MuhammadaliMS/pixel-studio",
+      "category": "shorts",
+      "url": "https://github.com/MuhammadaliMS/pixel-studio",
+      "license": "MIT"
+    },
+    {
+      "repo": "beatra-ai/viral-video-remake-skill",
+      "category": "shorts",
+      "url": "https://github.com/beatra-ai/viral-video-remake-skill",
+      "license": "MIT-0"
+    },
+    {
+      "repo": "ghost1412/shorts-generator",
+      "category": "shorts",
+      "url": "https://github.com/ghost1412/shorts-generator",
+      "license": "MIT"
+    },
+    {
+      "repo": "mcdenil-skills/AutoMontage-Agent",
+      "category": "shorts",
+      "url": "https://github.com/mcdenil-skills/AutoMontage-Agent",
+      "license": "MIT"
+    },
+    {
+      "repo": "miguelcotrinaia/claude-skills-shorts-animados",
+      "category": "shorts",
+      "url": "https://github.com/miguelcotrinaia/claude-skills-shorts-animados",
+      "license": "MIT"
+    },
+    {
+      "repo": "zoglmk/codex-video-pipeline",
+      "category": "shorts",
+      "url": "https://github.com/zoglmk/codex-video-pipeline",
+      "license": "MIT"
+    },
+    {
+      "repo": "Dryxio/effects-skill",
+      "category": "shorts",
+      "url": "https://github.com/Dryxio/effects-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "ninestonelee/youtube-shorts-factory",
+      "category": "shorts",
+      "url": "https://github.com/ninestonelee/youtube-shorts-factory",
+      "license": "MIT"
+    },
+    {
+      "repo": "riffkit/skill",
+      "category": "shorts",
+      "url": "https://github.com/riffkit/skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "inematds/skill-video-plan-editor",
+      "category": "shorts",
+      "url": "https://github.com/inematds/skill-video-plan-editor"
+    },
+    {
+      "repo": "kvrancic/oneshot-video",
+      "category": "shorts",
+      "url": "https://github.com/kvrancic/oneshot-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "liangdabiao/wechat-article-remotion",
+      "category": "shorts",
+      "url": "https://github.com/liangdabiao/wechat-article-remotion"
+    },
+    {
+      "repo": "marketcalls/story-telling",
+      "category": "shorts",
+      "url": "https://github.com/marketcalls/story-telling",
+      "license": "MIT"
+    },
+    {
+      "repo": "mikelix/gstack-tutorial-5-agi-race-v2",
+      "category": "shorts",
+      "url": "https://github.com/mikelix/gstack-tutorial-5-agi-race-v2",
+      "license": "MIT"
+    },
+    {
+      "repo": "AIBiz-Automatyzacje/maszynka-do-shortsow",
+      "category": "shorts",
+      "url": "https://github.com/AIBiz-Automatyzacje/maszynka-do-shortsow"
+    },
+    {
+      "repo": "XuHo-IT/Content-Agent-Kit",
+      "category": "shorts",
+      "url": "https://github.com/XuHo-IT/Content-Agent-Kit",
+      "license": "MIT"
+    },
+    {
+      "repo": "iamajmeena/pro-motion-editor-skill",
+      "category": "shorts",
+      "url": "https://github.com/iamajmeena/pro-motion-editor-skill",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "icytear-svg/podcast-to-video",
+      "category": "shorts",
+      "url": "https://github.com/icytear-svg/podcast-to-video"
+    },
+    {
+      "repo": "rafiimanggala/paper-collage-skill",
+      "category": "shorts",
+      "url": "https://github.com/rafiimanggala/paper-collage-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "xdis/opus-video-studio",
+      "category": "shorts",
+      "url": "https://github.com/xdis/opus-video-studio",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "cclank/lanshu-create-ai-presenter-video",
+      "category": "avatar",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "heygen-com/skills",
+      "category": "avatar",
+      "url": "https://github.com/heygen-com/skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "Upload-Post/avatar-mix",
+      "category": "avatar",
+      "url": "https://github.com/Upload-Post/avatar-mix",
+      "license": "MIT"
+    },
+    {
+      "repo": "Kanvis-chen/kanvis-video",
+      "category": "avatar",
+      "url": "https://github.com/Kanvis-chen/kanvis-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "AgriciDaniel/lipnardo",
+      "category": "avatar",
+      "url": "https://github.com/AgriciDaniel/lipnardo",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "zlong6943-commits/football-prediction-avatar-video",
+      "category": "avatar",
+      "url": "https://github.com/zlong6943-commits/football-prediction-avatar-video"
+    },
+    {
+      "repo": "xinyiqin/X2V-AI-Images-Videos-skill",
+      "category": "avatar",
+      "url": "https://github.com/xinyiqin/X2V-AI-Images-Videos-skill"
+    },
+    {
+      "repo": "puntorigen/avatar-skills",
+      "category": "avatar",
+      "url": "https://github.com/puntorigen/avatar-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "beatra-ai/talking-avatar-video-skill",
+      "category": "avatar",
+      "url": "https://github.com/beatra-ai/talking-avatar-video-skill",
+      "license": "MIT-0"
+    },
+    {
+      "repo": "lemomo-ai/lemo-opuscar",
+      "category": "story",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "license": "MIT"
+    },
+    {
+      "repo": "alchaincyf/huashu-art-motion",
+      "category": "story",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "license": "MIT"
+    },
+    {
+      "repo": "JohnHeibel/ClaudeAnimationBase",
+      "category": "story",
+      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+      "license": "MIT"
+    },
+    {
+      "repo": "gnipbao/story-to-handdrawn-video",
+      "category": "story",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "edenfunf/reelmimic",
+      "category": "story",
+      "url": "https://github.com/edenfunf/reelmimic",
+      "license": "MIT"
+    },
+    {
+      "repo": "tuzhechen2005/opus-video-skills",
+      "category": "story",
+      "url": "https://github.com/tuzhechen2005/opus-video-skills",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "Lanqiao-Luca/ai-video-marker",
+      "category": "story",
+      "url": "https://github.com/Lanqiao-Luca/ai-video-marker",
+      "license": "MIT"
+    },
+    {
+      "repo": "aaronyi97/image-story-video-wizard",
+      "category": "story",
+      "url": "https://github.com/aaronyi97/image-story-video-wizard",
+      "license": "MIT"
+    },
+    {
+      "repo": "sevenevesai/riso-windowseat",
+      "category": "story",
+      "url": "https://github.com/sevenevesai/riso-windowseat",
+      "license": "MIT"
+    },
+    {
+      "repo": "kelano86/what-if-animation",
+      "category": "story",
+      "url": "https://github.com/kelano86/what-if-animation",
+      "license": "MIT"
+    },
+    {
+      "repo": "liyue-aigc/xianxia-cinematic-video-director",
+      "category": "story",
+      "url": "https://github.com/liyue-aigc/xianxia-cinematic-video-director"
+    },
+    {
+      "repo": "Mr-funny/hbg-life-simulation",
+      "category": "story",
+      "url": "https://github.com/Mr-funny/hbg-life-simulation",
+      "license": "MIT"
+    },
+    {
+      "repo": "ChrisHKAI/ChrisHKAI-Video",
+      "category": "story",
+      "url": "https://github.com/ChrisHKAI/ChrisHKAI-Video",
+      "license": "MIT"
+    },
+    {
+      "repo": "buildwithhanif/claude-animation-skill",
+      "category": "story",
+      "url": "https://github.com/buildwithhanif/claude-animation-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "unclejobs-ai/motion-video-skill",
+      "category": "story",
+      "url": "https://github.com/unclejobs-ai/motion-video-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "mromidev/claude-blender-skills",
+      "category": "story",
+      "url": "https://github.com/mromidev/claude-blender-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "nocodehack/make-short",
+      "category": "story",
+      "url": "https://github.com/nocodehack/make-short",
+      "license": "MIT"
+    },
+    {
+      "repo": "liangdabiao/story-handdrawn-remotion",
+      "category": "story",
+      "url": "https://github.com/liangdabiao/story-handdrawn-remotion"
+    },
+    {
+      "repo": "AllenAI2014/remotion-guofeng-starter",
+      "category": "story",
+      "url": "https://github.com/AllenAI2014/remotion-guofeng-starter",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "deenukhan/stick-figure-shorts",
+      "category": "story",
+      "url": "https://github.com/deenukhan/stick-figure-shorts"
+    },
+    {
+      "repo": "JimLiu/taohuayuan",
+      "category": "story",
+      "url": "https://github.com/JimLiu/taohuayuan"
+    },
+    {
+      "repo": "AsadMoulviDev/reel-video",
+      "category": "story",
+      "url": "https://github.com/AsadMoulviDev/reel-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "hsynozdamar-byte/cinecode-studio",
+      "category": "story",
+      "url": "https://github.com/hsynozdamar-byte/cinecode-studio",
+      "license": "MIT"
+    },
+    {
+      "repo": "deenukhan/story-animator",
+      "category": "story",
+      "url": "https://github.com/deenukhan/story-animator",
+      "license": "MIT"
+    },
+    {
+      "repo": "garycaogan/pixel-diary",
+      "category": "story",
+      "url": "https://github.com/garycaogan/pixel-diary",
+      "license": "MIT"
+    },
+    {
+      "repo": "LetMeHappyCode/auto-video-agent",
+      "category": "story",
+      "url": "https://github.com/LetMeHappyCode/auto-video-agent"
+    },
+    {
+      "repo": "i-afaqrashid/claude-animation-studio",
+      "category": "story",
+      "url": "https://github.com/i-afaqrashid/claude-animation-studio",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "taylorzhou16/video-gen",
+      "category": "story",
+      "url": "https://github.com/taylorzhou16/video-gen"
+    },
+    {
+      "repo": "huynhcongdac/story-video-skill",
+      "category": "story",
+      "url": "https://github.com/huynhcongdac/story-video-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "diffusionstudio/lottie",
+      "category": "motion",
+      "url": "https://github.com/diffusionstudio/lottie",
+      "license": "MIT"
+    },
+    {
+      "repo": "nolangz/pixel2motion",
+      "category": "motion",
+      "url": "https://github.com/nolangz/pixel2motion",
+      "license": "MIT"
+    },
+    {
+      "repo": "pyang5166/gbro-collage-broll",
+      "category": "motion",
+      "url": "https://github.com/pyang5166/gbro-collage-broll",
+      "license": "MIT"
+    },
+    {
+      "repo": "alexgreensh/anidoodle",
+      "category": "motion",
+      "url": "https://github.com/alexgreensh/anidoodle",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "WoYun520/gif-factory",
+      "category": "motion",
+      "url": "https://github.com/WoYun520/gif-factory",
+      "license": "MIT"
+    },
+    {
+      "repo": "ythx-101/live-panel-skill",
+      "category": "motion",
+      "url": "https://github.com/ythx-101/live-panel-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "lazypay/Archscribe",
+      "category": "motion",
+      "url": "https://github.com/lazypay/Archscribe",
+      "license": "MIT"
+    },
+    {
+      "repo": "YIAN6557/eian-riso-broll",
+      "category": "motion",
+      "url": "https://github.com/YIAN6557/eian-riso-broll",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "MegaTroll222/VOX-COLLAGE-BROLL",
+      "category": "motion",
+      "url": "https://github.com/MegaTroll222/VOX-COLLAGE-BROLL",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "HRuiCcc/RuiC-motion-reel",
+      "category": "motion",
+      "url": "https://github.com/HRuiCcc/RuiC-motion-reel",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "Liamrjohnston/remotion-motion-graphics-skill",
+      "category": "motion",
+      "url": "https://github.com/Liamrjohnston/remotion-motion-graphics-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "lisamsung/agent-meme-forge",
+      "category": "motion",
+      "url": "https://github.com/lisamsung/agent-meme-forge",
+      "license": "MIT"
+    },
+    {
+      "repo": "zz41354899/mografy",
+      "category": "motion",
+      "url": "https://github.com/zz41354899/mografy",
+      "license": "MIT"
+    },
+    {
+      "repo": "fantuan-lab/animated-sticker-studio",
+      "category": "motion",
+      "url": "https://github.com/fantuan-lab/animated-sticker-studio",
+      "license": "MIT"
+    },
+    {
+      "repo": "Felpborges/claude-video",
+      "category": "motion",
+      "url": "https://github.com/Felpborges/claude-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "AgriciDaniel/claude-gif",
+      "category": "motion",
+      "url": "https://github.com/AgriciDaniel/claude-gif",
+      "license": "MIT"
+    },
+    {
+      "repo": "dillydog580/animate-roblox-characters",
+      "category": "motion",
+      "url": "https://github.com/dillydog580/animate-roblox-characters",
+      "license": "MIT"
+    },
+    {
+      "repo": "hughminhphan/motion-kit",
+      "category": "motion",
+      "url": "https://github.com/hughminhphan/motion-kit",
+      "license": "MIT"
+    },
+    {
+      "repo": "iart-ai/kinetic-typography-skills",
+      "category": "motion",
+      "url": "https://github.com/iart-ai/kinetic-typography-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "toufuim/personal-ip-brand-intro-skill",
+      "category": "motion",
+      "url": "https://github.com/toufuim/personal-ip-brand-intro-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "awesome-skills/manim-skill",
+      "category": "motion",
+      "url": "https://github.com/awesome-skills/manim-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "fernandokaraka/remotion-motion-graphics-skill",
+      "category": "motion",
+      "url": "https://github.com/fernandokaraka/remotion-motion-graphics-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "liuhaisi2026212-maker/motion-palette-15",
+      "category": "motion",
+      "url": "https://github.com/liuhaisi2026212-maker/motion-palette-15",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "zhenwusw/orca-motion-skill",
+      "category": "motion",
+      "url": "https://github.com/zhenwusw/orca-motion-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "acelera-agency/html-animation",
+      "category": "motion",
+      "url": "https://github.com/acelera-agency/html-animation",
+      "license": "MIT"
+    },
+    {
+      "repo": "rock3r/cav",
+      "category": "motion",
+      "url": "https://github.com/rock3r/cav",
+      "license": "MIT"
+    },
+    {
+      "repo": "sudadom/arabic-motion-graphics-skill",
+      "category": "motion",
+      "url": "https://github.com/sudadom/arabic-motion-graphics-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "codie1982/chorono-editor",
+      "category": "motion",
+      "url": "https://github.com/codie1982/chorono-editor",
+      "license": "MIT"
+    },
+    {
+      "repo": "liuliu-66-create/ll-video-motion",
+      "category": "motion",
+      "url": "https://github.com/liuliu-66-create/ll-video-motion"
+    },
+    {
+      "repo": "CJ10110425/logo-intro",
+      "category": "motion",
+      "url": "https://github.com/CJ10110425/logo-intro",
+      "license": "MIT"
+    },
+    {
+      "repo": "hacimertgokhan/geomotion",
+      "category": "motion",
+      "url": "https://github.com/hacimertgokhan/geomotion",
+      "license": "MIT"
+    },
+    {
+      "repo": "iart-ai/youtube-video-skills",
+      "category": "motion",
+      "url": "https://github.com/iart-ai/youtube-video-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "YanKaFei/ascii-h3-director",
+      "category": "motion",
+      "url": "https://github.com/YanKaFei/ascii-h3-director",
+      "license": "MIT"
+    },
+    {
+      "repo": "hubeiqiao/og-video-preview",
+      "category": "motion",
+      "url": "https://github.com/hubeiqiao/og-video-preview",
+      "license": "MIT"
+    },
+    {
+      "repo": "luminexlabs-io/antigravity-remotion-skill",
+      "category": "motion",
+      "url": "https://github.com/luminexlabs-io/antigravity-remotion-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "jtydhr88/screenwriting-skills",
+      "category": "craft",
+      "url": "https://github.com/jtydhr88/screenwriting-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "eternityspring/reelbench-skills",
+      "category": "craft",
+      "url": "https://github.com/eternityspring/reelbench-skills",
+      "license": "Apache-2.0"
+    },
+    {
+      "repo": "gnipbao/minimax-h3-video-reverse-skill",
+      "category": "craft",
+      "url": "https://github.com/gnipbao/minimax-h3-video-reverse-skill",
+      "license": "MIT"
+    },
+    {
+      "repo": "wyuzhi/qisi-video-remix",
+      "category": "craft",
+      "url": "https://github.com/wyuzhi/qisi-video-remix",
+      "license": "MIT"
+    },
+    {
+      "repo": "adityaarsharma/youtube-marketing-skills",
+      "category": "craft",
+      "url": "https://github.com/adityaarsharma/youtube-marketing-skills",
+      "license": "MIT"
+    },
+    {
+      "repo": "wocha-xiaoli/video-shot-analysis-feishu",
+      "category": "craft",
+      "url": "https://github.com/wocha-xiaoli/video-shot-analysis-feishu",
+      "license": "MIT"
+    },
+    {
+      "repo": "liuliu-66-create/ll-video-decomposer",
+      "category": "craft",
+      "url": "https://github.com/liuliu-66-create/ll-video-decomposer",
+      "license": "MIT"
+    },
+    {
+      "repo": "chenmisss/laoxu-video-script",
+      "category": "craft",
+      "url": "https://github.com/chenmisss/laoxu-video-script",
+      "license": "MIT"
+    },
+    {
+      "repo": "erduo1998-cell/video-script-builder",
+      "category": "craft",
+      "url": "https://github.com/erduo1998-cell/video-script-builder",
+      "license": "MIT"
+    },
+    {
+      "repo": "sharon-laicc/viral-video-decomposer",
+      "category": "craft",
+      "url": "https://github.com/sharon-laicc/viral-video-decomposer",
+      "license": "MIT"
+    },
+    {
+      "repo": "JohnHeibel/PDoomVideo",
+      "category": "music",
+      "url": "https://github.com/JohnHeibel/PDoomVideo"
+    },
+    {
+      "repo": "EGSECDA/vocaloid-style-mv-pipeline",
+      "category": "music",
+      "url": "https://github.com/EGSECDA/vocaloid-style-mv-pipeline",
+      "license": "MIT"
+    },
+    {
+      "repo": "10291124jcjc-dotcom/ancient-rap-battle",
+      "category": "music",
+      "url": "https://github.com/10291124jcjc-dotcom/ancient-rap-battle",
+      "license": "MIT"
+    },
+    {
+      "repo": "Joker-chichi/claude-mv-skill",
+      "category": "music",
+      "url": "https://github.com/Joker-chichi/claude-mv-skill",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "Win-Hao/music-mv",
+      "category": "music",
+      "url": "https://github.com/Win-Hao/music-mv",
+      "license": "MIT"
+    },
+    {
+      "repo": "ledbetterljoshua/functional-emotions-video",
+      "category": "music",
+      "url": "https://github.com/ledbetterljoshua/functional-emotions-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "lintsinghua/paint-mv-skills",
+      "category": "music",
+      "url": "https://github.com/lintsinghua/paint-mv-skills",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "SyanChen7/dancing-notes",
+      "category": "music",
+      "url": "https://github.com/SyanChen7/dancing-notes",
+      "license": "MIT"
+    },
+    {
+      "repo": "IdkwhatImD0ing/claude-music-videos",
+      "category": "music",
+      "url": "https://github.com/IdkwhatImD0ing/claude-music-videos",
+      "license": "MIT"
+    },
+    {
+      "repo": "022512db-netizen/rhythm-dancer-video",
+      "category": "music",
+      "url": "https://github.com/022512db-netizen/rhythm-dancer-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "TheMarco/claude-music-video",
+      "category": "music",
+      "url": "https://github.com/TheMarco/claude-music-video",
+      "license": "MIT"
+    },
+    {
+      "repo": "latent-variable/deep-learning-birthday",
+      "category": "music",
+      "url": "https://github.com/latent-variable/deep-learning-birthday",
+      "license": "MIT"
+    },
+    {
+      "repo": "chenqianshinian/music-mv-studio",
+      "category": "music",
+      "url": "https://github.com/chenqianshinian/music-mv-studio",
+      "license": "MIT"
+    },
+    {
+      "repo": "neelnanda-io/dont-go-quiet-on-me",
+      "category": "music",
+      "url": "https://github.com/neelnanda-io/dont-go-quiet-on-me",
+      "license": "NOASSERTION"
+    },
+    {
+      "repo": "BuzyOwl/song-video-director",
+      "category": "music",
+      "url": "https://github.com/BuzyOwl/song-video-director",
+      "license": "MIT"
+    },
+    {
+      "repo": "bishpls/animation-pipeline",
+      "category": "music",
+      "url": "https://github.com/bishpls/animation-pipeline"
+    },
+    {
+      "repo": "10291124jcjc-dotcom/xp-desktop-mv",
+      "category": "music",
+      "url": "https://github.com/10291124jcjc-dotcom/xp-desktop-mv"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "studio-hyperframes-template",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {"gsap": "3.14.2"}
+}
