@@ -31,6 +31,6 @@ registerRoot(() => (
     height={360}
     fps={24}
     durationInFrames={72}
-    defaultProps={{eyebrow: 'CODEX ANIMATION STUDIO', title: 'Сцена в движении'}}
+    defaultProps={{eyebrow: 'KADRVOLT', title: 'Сцена в движении'}}
   />
 ));

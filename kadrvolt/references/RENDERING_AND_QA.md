@@ -12,7 +12,7 @@
 Запускай из папки анимационного проекта; путь к render_video.mjs укажи фактический:
 
 ```sh
-node /path/to/codex-animation-studio/scripts/render_video.mjs --html animation.html --seconds 12 --width 1080 --height 1920 --fps 24 --output final.mp4 --preview
+node /path/to/kadrvolt/scripts/render_video.mjs --html animation.html --seconds 12 --width 1080 --height 1920 --fps 24 --output final.mp4 --preview
 ```
 
 После просмотра кадров повтори команду без --preview. Для исходного звука добавь `--audio voice.wav --audio-kind narration` или `--audio-kind music`. Речь длиннее видеоряда не обрезается: увеличь длительность. Музыка при коротком файле зацикливается. При --preview создаются только PNG, а не MP4.

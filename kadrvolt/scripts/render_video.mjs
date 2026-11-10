@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Codex Animation Studio | @leo_ai_content
+ * KadrVolt | @leo_ai_content
  * Local deterministic HTML->PNG frames->MP4 renderer.
  * No dependency installation, downloads, external services or remote content.
  * Requires Node 18+, Playwright+Chromium in CURRENT WORKSPACE, FFmpeg/FFprobe.
@@ -155,7 +155,7 @@ async function main() {
       report.note='Preview is NOT an MP4. Review images and run without --preview for final export.';
       console.log(`Preview complete: ${report.preview_frames.length} frames in ${previewsDir}`);
     } else {
-      framesDir=o['keep-frames']?join(dirname(output),'frames'):mkdtempSync(join(tmpdir(),'codex-animation-studio-frames-'));
+      framesDir=o['keep-frames']?join(dirname(output),'frames'):mkdtempSync(join(tmpdir(),'kadrvolt-frames-'));
       mkdirSync(framesDir,{recursive:true});
       for(let f=1; f<=n; f++){
         const name=`frame_${String(f).padStart(6,'0')}.png`;
@@ -168,7 +168,7 @@ async function main() {
         }
         if(f % 48===0 || f===n) console.log(`Rendered ${f}/${n} frames`);
       }
-      tempVideo=join(dirname(output),`.codex-animation-studio_${process.pid}_silent.mp4`);
+      tempVideo=join(dirname(output),`.kadrvolt_${process.pid}_silent.mp4`);
       await run('ffmpeg',['-hide_banner','-loglevel','error','-y','-framerate',String(fps),'-start_number','1','-i',join(framesDir,'frame_%06d.png'),'-frames:v',String(n),'-c:v','libx264','-preset','veryfast','-crf','18','-pix_fmt','yuv420p','-movflags','+faststart',tempVideo]);
       if(audio){
         const mux=['-hide_banner','-loglevel','error','-y','-i',tempVideo];

@@ -1,0 +1,5 @@
+interface:
+  display_name: "KadrVolt"
+  short_description: "Монтаж, озвучка и анимация до готового MP4"
+  brand_color: "#C7FB6F"
+  default_prompt: "Используй $kadrvolt и помоги выбрать, с чего начать мой ролик."

@@ -255,7 +255,7 @@
     const fraction = Math.max(0, Math.min(1, (seconds - pair * 2) / 2));
     const progress = .12 + .88 * (fraction * fraction * (3 - 2 * fraction));
     rect(0, 0, 960, 540, '#10131b');
-    text('CODEX / ANIMATION STUDIO', 33, 36, 15, '#c7fb6f', 700, 'monospace');
+    text('KADRVOLT / СТУДИЯ', 33, 36, 15, '#c7fb6f', 700, 'monospace');
     text('Заряд батареи в десяти стилях', 32, 81, 33, '#f5f1e8', 750);
     text(`0${pair + 1} / 05`, 834, 36, 15, '#aeb5c2', 600, 'monospace');
     panel(32, pair * 2, progress);
