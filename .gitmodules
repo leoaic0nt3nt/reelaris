@@ -1,6 +1,0 @@
-[submodule "upstream/rea-video"]
-	path = upstream/rea-video
-	url = https://github.com/JuneYaooo/rea-video.git
-[submodule "upstream/awesome-claude-video-skills"]
-	path = upstream/awesome-claude-video-skills
-	url = https://github.com/zhuyansen/awesome-claude-video-skills.git

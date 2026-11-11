@@ -1,0 +1,16 @@
+[
+  {
+    "name": "rea-video",
+    "url": "https://github.com/JuneYaooo/rea-video",
+    "commit": "fabf832d6b136672be4ed9bff1739d0e6d6788af",
+    "tree": "d30d4568a7d152321a88b5ef60230b31cc3d47c1",
+    "tracked_files": 411
+  },
+  {
+    "name": "awesome-claude-video-skills",
+    "url": "https://github.com/zhuyansen/awesome-claude-video-skills",
+    "commit": "84d86811a655d7eba91115e669c97fcd4e068d55",
+    "tree": "8bc660ec485b4ef30f27d986f7e5895be6e1ec5f",
+    "tracked_files": 302
+  }
+]
