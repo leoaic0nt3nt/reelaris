@@ -90,9 +90,9 @@
       ctx.lineWidth = 2;
       path([[-150, -94], [-150, 83], [161, 83]], null, color);
       for (let i = 0; i < 5; i++) path([[-157, 63 - i * 37], [160, 63 - i * 37]], null, '#41685c');
-      const values = [-128, -62, -76, 9, 31, 91, 130];
+      const values = [20, 45, 38, 92, 85, 148, 168];
       const count = Math.max(2, Math.floor(p * values.length));
-      const points = values.slice(0, count).map((v, i) => [-132 + i * 43, 47 - v * .66]);
+      const points = values.slice(0, count).map((v, i) => [-132 + i * 43, 60 - v * .75]);
       ctx.lineWidth = 4;
       path(points, null, color);
       for (const [x, y] of points) circle(x, y, 4, color);
